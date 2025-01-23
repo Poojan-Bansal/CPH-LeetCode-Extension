@@ -27,7 +27,7 @@ Before using the extension, ensure you have the following installed on your syst
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Poojan-Bansal/CPH-LeetCode-Extension.git)
    ```
 
 2. Open the project in Visual Studio Code:
