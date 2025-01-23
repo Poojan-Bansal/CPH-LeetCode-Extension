@@ -21,12 +21,6 @@ Before using the extension, ensure you have the following installed on your syst
 - **C++ Compiler**: (e.g., `g++`) for running C++ code.
 - **Python Interpreter**: (e.g., `python3`) for running Python code.
 
-Additionally, make sure the following packages are installed by running:
-
-```bash
-npm install
-```
-
 ---
 
 ## Installation
