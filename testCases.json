@@ -1,0 +1,17 @@
+{
+  "title": "K-Similar Strings",
+  "inputs": [
+    [
+      "ab",
+      "ba"
+    ],
+    [
+      "abc",
+      "bca"
+    ]
+  ],
+  "outputs": [
+    1,
+    2
+  ]
+}
