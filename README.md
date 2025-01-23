@@ -117,6 +117,4 @@ Contributions are welcome! If you'd like to enhance the extension or fix bugs:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
