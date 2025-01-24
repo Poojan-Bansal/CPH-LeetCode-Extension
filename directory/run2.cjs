@@ -175,7 +175,7 @@ console.log("Running Your Code...")
         const passed = 1; 
         for (let i = 0; i < receivedOutput.length; i++) {
             if(expectedOutput[i]!=receivedOutput[i]){
-                console.log(`Failed at Test Case ${i+1}`);
+                console.log(`Failed at Test Case ${i+1} ❌`);
                 passed=0;
                 break;
             }
@@ -183,7 +183,7 @@ console.log("Running Your Code...")
 
         }
         if(passed==1){
-            console.log("Passed!!!");
+            console.log("Passed ✅");
         }
 
     } catch (error) {
