@@ -84,7 +84,7 @@ Before using the extension, ensure you have the following installed on your syst
 
 ---
 
- [Click here to see Demo Video]([https://drive.google.com/file/d/1K56LtQtYjDQbFUyziTrulWqFvU-MKLPo/view?usp=sharing](https://drive.google.com/file/d/15ciVmkqVuwXdt0ghC3i4sQIbR-E-LyJn/view?usp=sharing))
+ [Click here to see Demo Video]([https://drive.google.com/file/d/15ciVmkqVuwXdt0ghC3i4sQIbR-E-LyJn/view?usp=sharing])
 
 
 ---
